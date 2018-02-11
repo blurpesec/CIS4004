@@ -19,7 +19,7 @@ footer
   text-align: center;
 }
 
-address
+#address
 {
   color: #191970;
   font-size: 13pt;
@@ -71,6 +71,11 @@ h1
   color: #FFE4C4;
   line-height: 200%;
   text-align: center;
+}
+
+a
+{
+  color: white;
 }
 
 h3

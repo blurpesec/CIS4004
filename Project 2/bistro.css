@@ -1,0 +1,27 @@
+footer{
+  background-color: #191970;
+  color: #FFE4C4;
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+}
+address{
+  color: #191970;
+  font-size: 13pt;
+  font-family: calibri;
+}
+header{
+  background-color: #191970
+  text-align: center;
+}
+li{
+  color: #FFE4C4;
+}
+u.p.strong{
+  color: #A52A2A;
+  font-family: calibri;
+  font-size: 1.4em;
+}
+p.u{
+  color: #A52A2A;
+}

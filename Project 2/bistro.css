@@ -28,7 +28,7 @@ footer
 
 header
 {
-  background-color: #191970
+  background-color: #191970;
   text-align: center;
 }
 
@@ -42,6 +42,17 @@ p u strong
   color: #A52A2A;
   font-family: calibri;
   font-size: 1.4em;
+}
+
+dl u strong{
+  color: #A52A2A;
+  font-family: calibri;
+  font-size: 1.4em
+}
+
+dl u
+{
+  color: #A52A2A;
 }
 
 p u

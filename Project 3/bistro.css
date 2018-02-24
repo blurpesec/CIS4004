@@ -1,0 +1,129 @@
+body,
+html
+{
+  width: 100%;
+  height: 100%;
+}
+
+h1
+{
+  height: 110px;
+  padding-left: 130px;
+  padding-top: 30px;
+  border-radius: 15px;
+  border-color: #FFE4C4;
+}
+
+header h1
+{
+  background-image: url("./images/lighthouselogo.jpg");
+}
+
+nav
+{
+  font-weight: bold;
+  text-align: center;
+}
+
+footer
+{
+  background-color: #191970;
+  color: #FFE4C4;
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+}
+
+#wrapper
+{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+  min-width: 750px;
+  width: 80%;
+}
+
+#address
+{
+  color: #191970;
+  font-size: 13pt;
+  font-family: calibri;
+  font-size: 97%;
+}
+
+header
+{
+  background-color: #191970;
+  text-align: center;
+}
+
+ul
+{
+  list-style-image: url("./images/marker.gif");
+}
+
+footer
+{
+  background-image: url("./images/lighthouselogo1.jpg");
+  background-repeat:
+}
+
+li
+{
+  color: #FFE4C4;
+}
+
+p u strong
+{
+  color: #A52A2A;
+  font-family: calibri;
+  font-size: 1.4em;
+}
+
+p u
+{
+  color: #A52A2A;
+}
+
+#contentinfo
+{
+  background-color: #191970;
+  color: #FFE4C4;
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+}
+
+body
+{
+  background-color: #00BFFF;
+  color: #221811;
+  font-family: verdana, arial, sans-serif;
+  background-image: url("./images/ocean.jpg");
+  background-repeat: repeat-x;
+}
+
+a
+{
+  color: white;
+}
+
+h3
+{
+  color: #FFE4C4;
+}
+
+dt
+{
+  color: #FFE4C4;
+}
+
+dd
+{
+  color: #221811;
+}
+
+dl
+{
+  color: #221811;
+}

@@ -53,7 +53,6 @@ footer
 
 header
 {
-  background-color: #191970;
   text-align: center;
 }
 
@@ -97,15 +96,9 @@ p u
 body
 {
   background-color: #00BFFF;
-  color: #221811;
   font-family: verdana, arial, sans-serif;
   background-image: url("./images/ocean.jpg");
   background-repeat: repeat-x;
-}
-
-a
-{
-  color: white;
 }
 
 h3

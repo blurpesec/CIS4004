@@ -17,20 +17,18 @@ h1
 header h1
 {
   background-image: url("./images/lighthouselogo.jpg");
+  height: 110px;
+  padding-left: 130px;
+  padding-top: 30px;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #FFE4C4;
+  color: #00008B;
 }
 
 nav
 {
   font-weight: bold;
-  text-align: center;
-}
-
-footer
-{
-  background-color: #191970;
-  color: #FFE4C4;
-  font-size: small;
-  font-style: italic;
   text-align: center;
 }
 
@@ -51,9 +49,11 @@ footer
   font-size: 97%;
 }
 
-header
+img
 {
-  text-align: center;
+  float: right;
+  height: 250px;
+  width: 320px;
 }
 
 ul
@@ -64,7 +64,18 @@ ul
 footer
 {
   background-image: url("./images/lighthouselogo1.jpg");
-  background-repeat:
+  background-repeat: repeat-x;
+  height: 35px;
+  margin-top: -2em;
+  border-style: solid;
+  border-radius: 6px;
+  border-color: #FFE4C4;
+  color: #191970;
+  background-color: #191970;
+  font-size: small;
+  font-style: italic;
+  text-align: center;
+
 }
 
 li
@@ -99,6 +110,12 @@ body
   font-family: verdana, arial, sans-serif;
   background-image: url("./images/ocean.jpg");
   background-repeat: repeat-x;
+}
+
+nav a
+{
+  text-decoration: none;
+  font-weight: bold;
 }
 
 h3
